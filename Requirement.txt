@@ -1,0 +1,20 @@
+Requirement
+First we import all tables those require for our dashboard by using get data option after that we load the data in power query and clean the data by using ribbons preasent in power query.
+
+
+Client Requirement:
+1.No of employees by Region
+2.Want to see Product Name by budeget on date onwards 2021
+3.List of campagains names by budget with ranking
+4.MTD,QTD,YTD
+5.past 3 months budget and respectively others
+6.Customize report properly.
+7.Top 1 Account owner based on number of employees.
+8.Top 1 Agent based on Resolution Minute.
+9.Prediction on Budget like 10% or 20%
+10.Total Budget on Won Category
+11.Budget on Product with coloring Formatting-Red Green
+12.Budget on Product Category in %
+13.Show Average values on Product Category on Budget
+14.
+15.

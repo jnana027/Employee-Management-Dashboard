@@ -1,0 +1,42 @@
+KPI:
+1.Total Resolution Time = SUM('Cases'[Resolution Minutes])
+
+2.Total Budget = SUM(Oppournities[Budget])
+
+3.TBudget onwards 2021 = CALCULATE([Total Budget],Oppournities[year]>2020)
+
+4.Rank = RANKX(ALLSELECTED(Oppournities[Campaign Name]),[Total Budget],,DESC)
+
+5.MTD Budget = TOTALMTD([Total Budget],Oppournities[Opportunity Created On])
+
+6.QTD Budget = TOTALQTD([Total Budget],Oppournities[Opportunity Created On])
+
+7.YTD Budget = TOTALYTD([Total Budget],Oppournities[Opportunity Created On])
+
+8.Past 3 Month = CALCULATE([Total Budget],DATESINPERIOD(Oppournities[Opportunity Created On],LASTDATE(Oppournities[Opportunity Created On]),-3,MONTH))
+
+9.Past 6 Month = CALCULATE([Total Budget],DATESINPERIOD(Oppournities[Opportunity Created On],LASTDATE(Oppournities[Opportunity Created On]),-6,MONTH))
+
+10.Past 12 Month = CALCULATE([Total Budget],DATESINPERIOD(Oppournities[Opportunity Created On],LASTDATE(Oppournities[Opportunity Created On]),-12,MONTH))
+
+11.choose = SELECTEDVALUE(India[Paradise],[Total Budget])
+
+12.Switch = SWITCH([choose],
+"MTD Budget",[MTD Budget],
+"QTD Budget",[QTD Budget],
+"YTD Budget",[YTD Budget],
+"Past 3 Month",[Past 3 Month],
+"Past 6 Month",[Past 6 Month],
+"Past 12 Month",[Past 12 Month])
+
+13.Total Employee = SUM(Accounts[Number of Employees])
+
+14.Won Budget = CALCULATE([Total Budget],Oppournities[Status]="Won")
+
+15.Formatting = IF(SUM(Oppournities[Budget])>5000000,"Red","Green")
+
+16.% of Budget on category = DIVIDE([Total Budget],CALCULATE([Total Budget],ALL(Oppournities)))
+
+17.Condition = IF([Total Budget]>10000000,"Achived","Not Achived")
+
+
