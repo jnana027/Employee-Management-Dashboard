@@ -1,0 +1,299 @@
+Region,Territory,Country,State Or Province Abbreviation
+EMEA,Aland Islands,Aland Islands,-
+EMEA,Albania,Albania,-
+EMEA,Algeria,Algeria,-
+EMEA,Andorra,Andorra,-
+EMEA,Angola,Angola,-
+EMEA,Armenia,Armenia,-
+EMEA,Austria,Austria,-
+EMEA,Bahrain,Bahrain,-
+EMEA,Belarus,Belarus,-
+EMEA,Belgium,Belgium,-
+EMEA,Benin,Benin,-
+EMEA,Bosnia and Herzegovina,Bosnia and Herzegovina,-
+EMEA,Botswana,Botswana,-
+EMEA,Bulgaria,Bulgaria,-
+EMEA,Burkina Faso,Burkina Faso,-
+EMEA,Burundi,Burundi,-
+EMEA,Cameroon,Cameroon,-
+EMEA,Cape Verde,Cape Verde,-
+EMEA,Central African Republic,Central African Republic,-
+EMEA,Chad,Chad,-
+EMEA,Comoros,Comoros,-
+EMEA,Congo,Congo,-
+EMEA,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",-
+EMEA,Côte D'Ivoire,Côte D'Ivoire,-
+EMEA,Croatia,Croatia,-
+EMEA,Cyprus,Cyprus,-
+EMEA,Czech Republic,Czechia,-
+EMEA,Denmark,Denmark,-
+EMEA,Djibouti,Djibouti,-
+EMEA,Egypt,Egypt,-
+EMEA,Equatorial Guinea,Equatorial Guinea,-
+EMEA,Eritrea,Eritrea,-
+EMEA,Estonia,Estonia,-
+EMEA,Ethiopia,Ethiopia,-
+EMEA,Faroe Islands,Faroe Islands,-
+EMEA,Finland,Finland,-
+EMEA,France,France,-
+EMEA,"France, Metropolitan","France, Metropolitan",-
+EMEA,Gabon,Gabon,-
+EMEA,Gambia,Gambia,-
+EMEA,Georgia,Georgia,-
+EMEA,Germany,Germany,-
+EMEA,Ghana,Ghana,-
+EMEA,Gibraltar,Gibraltar,-
+EMEA,Greece,Greece,-
+EMEA,Greenland,Greenland,-
+EMEA,Guernsey,Guernsey,-
+EMEA,Guinea,Guinea,-
+EMEA,Guinea-Bissau,Guinea-Bissau,-
+EMEA,Holy See (Vatican City State),Holy See (Vatican City State),-
+EMEA,Hungary,Hungary,-
+EMEA,Iceland,Iceland,-
+EMEA,Iraq,Iraq,-
+EMEA,Ireland,Ireland,-
+EMEA,Isle of Man,Isle of Man,-
+EMEA,Israel,Israel,-
+EMEA,Italy,Italy,-
+EMEA,Jersey,Jersey,-
+EMEA,Jordan,Jordan,-
+EMEA,Kenya,Kenya,-
+EMEA,Kuwait,Kuwait,-
+EMEA,Latvia,Latvia,-
+EMEA,Lebanon,Lebanon,-
+EMEA,Lesotho,Lesotho,-
+EMEA,Liberia,Liberia,-
+EMEA,Libya,Libya,-
+EMEA,Liechtenstein,Liechtenstein,-
+EMEA,Lithuania,Lithuania,-
+EMEA,Luxembourg,Luxembourg,-
+EMEA,Macedonia,Macedonia,-
+EMEA,Madagascar,Madagascar,-
+EMEA,Malawi,Malawi,-
+EMEA,Mali,Mali,-
+EMEA,Malta,Malta,-
+EMEA,Mauritania,Mauritania,-
+EMEA,Mauritius,Mauritius,-
+EMEA,Mayotte,Mayotte,-
+EMEA,"Moldova, Republic of","Moldova, Republic of",-
+EMEA,Monaco,Monaco,-
+EMEA,Montenegro,Montenegro,-
+EMEA,Morocco,Morocco,-
+EMEA,Mozambique,Mozambique,-
+EMEA,Namibia,Namibia,-
+EMEA,Netherlands,Netherlands,-
+EMEA,Niger,Niger,-
+EMEA,Nigeria,Nigeria,-
+EMEA,Norway,Norway,-
+EMEA,Oman,Oman,-
+EMEA,Palestinian Territory,Palestinian Territory,-
+EMEA,Poland,Poland,-
+EMEA,Portugal,Portugal,-
+EMEA,Qatar,Qatar,-
+EMEA,Romania,Romania,-
+EMEA,Russian Federation,Russia,-
+EMEA,Rwanda,Rwanda,-
+EMEA,Saint Helena,Saint Helena,-
+EMEA,San Marino,San Marino,-
+EMEA,Sao Tome and Principe,Sao Tome and Principe,-
+EMEA,Saudi Arabia,Saudi Arabia,-
+EMEA,Senegal,Senegal,-
+EMEA,Serbia,Serbia,-
+EMEA,Seychelles,Seychelles,-
+EMEA,Sierra Leone,Sierra Leone,-
+EMEA,Slovakia,Slovakia,-
+EMEA,Slovenia,Slovenia,-
+EMEA,Somalia,Somalia,-
+EMEA,South Africa,South Africa,-
+EMEA,South Sudan,South Sudan,-
+EMEA,Spain,Spain,-
+EMEA,Sudan,Sudan,-
+EMEA,Svalbard and Jan Mayen,Svalbard and Jan Mayen,-
+EMEA,Swaziland,Swaziland,-
+EMEA,Sweden,Sweden,-
+EMEA,Switzerland,Switzerland,-
+EMEA,"Tanzania, United Republic of","Tanzania, United Republic of",-
+EMEA,Togo,Togo,-
+EMEA,Tunisia,Tunisia,-
+EMEA,Turkey,Turkey,-
+EMEA,Uganda,Uganda,-
+EMEA,Ukraine,Ukraine,-
+EMEA,United Arab Emirates,United Arab Emirates,-
+EMEA,United Kingdom,United Kingdom,-
+EMEA,Western Sahara,Western Sahara,-
+EMEA,Yemen,Yemen,-
+EMEA,Zambia,Zambia,-
+EMEA,Zimbabwe,Zimbabwe,-
+APAC,Afghanistan,Afghanistan,-
+APAC,American Samoa,American Samoa,-
+APAC,Antarctica,Antarctica,-
+APAC,Australia,Australia,-
+APAC,Azerbaijan,Azerbaijan,-
+APAC,Bangladesh,Bangladesh,-
+APAC,Bhutan,Bhutan,-
+APAC,British Indian Ocean Territory,British Indian Ocean Territory,-
+APAC,Brunei Darussalam,Brunei Darussalam,-
+APAC,Cambodia,Cambodia,-
+APAC,China,China,-
+APAC,Christmas Island,Christmas Island,-
+APAC,Cocos (Keeling) Islands,Cocos (Keeling) Islands,-
+APAC,Cook Islands,Cook Islands,-
+APAC,Fiji,Fiji,-
+APAC,French Polynesia,French Polynesia,-
+APAC,French Southern Territories,French Southern Territories,-
+APAC,Guam,Guam,-
+APAC,Heard Island and McDonald Islands,Heard Island and McDonald Islands,-
+APAC,Hong Kong,Hong Kong SAR,-
+APAC,India,India,-
+APAC,Indonesia,Indonesia,-
+APAC,"Iran, Islamic Republic of","Iran, Islamic Republic of",-
+APAC,Japan,Japan,-
+APAC,Kazakhstan,Kazakhstan,-
+APAC,Kiribati,Kiribati,-
+APAC,"Korea, Democratic People's Republic of","Korea, Democratic People's Republic of",-
+APAC,"Korea, Republic of",Korea,-
+APAC,Kyrgyzstan,Kyrgyzstan,-
+APAC,Lao People's Democratic Republic,Lao People's Democratic Republic,-
+APAC,Macau,Macau,-
+APAC,Malaysia,Malaysia,-
+APAC,Maldives,Maldives,-
+APAC,Marshall Islands,Marshall Islands,-
+APAC,"Micronesia, Federated States of","Micronesia, Federated States of",-
+APAC,Mongolia,Mongolia,-
+APAC,Myanmar,Myanmar,-
+APAC,Nauru,Nauru,-
+APAC,Nepal,Nepal,-
+APAC,New Caledonia,New Caledonia,-
+APAC,New Zealand,New Zealand,-
+APAC,Niue,Niue,-
+APAC,Norfolk Island,Norfolk Island,-
+APAC,Northern Mariana Islands,Northern Mariana Islands,-
+APAC,Pakistan,Pakistan,-
+APAC,Palau,Palau,-
+APAC,Papua New Guinea,Papua New Guinea,-
+APAC,Philippines,Philippines,-
+APAC,Pitcairn Islands,Pitcairn Islands,-
+APAC,Reunion,Reunion,-
+APAC,Samoa,Samoa,-
+APAC,Singapore,Singapore,-
+APAC,Solomon Islands,Solomon Islands,-
+APAC,Sri Lanka,Sri Lanka,-
+APAC,Syrian Arab Republic,Syrian Arab Republic,-
+APAC,Taiwan,Taiwan,-
+APAC,Tajikistan,Tajikistan,-
+APAC,Thailand,Thailand,-
+APAC,Timor-Leste,Timor-Leste,-
+APAC,Tokelau,Tokelau,-
+APAC,Tonga,Tonga,-
+APAC,Turkmenistan,Turkmenistan,-
+APAC,Tuvalu,Tuvalu,-
+APAC,United States Minor Outlying Islands,United States Minor Outlying Islands,-
+APAC,Uzbekistan,Uzbekistan,-
+APAC,Vanuatu,Vanuatu,-
+APAC,Vietnam,Vietnam,-
+APAC,Wallis and Futuna,Wallis and Futuna,-
+LATAM,Anguilla,Anguilla,-
+LATAM,Antigua and Barbuda,Antigua and Barbuda,-
+LATAM,Argentina,Argentina,-
+LATAM,Aruba,Aruba,-
+LATAM,Bahamas,Bahamas,-
+LATAM,Barbados,Barbados,-
+LATAM,Belize,Belize,-
+North America,Bermuda,Bermuda,-
+LATAM,Bolivia,Bolivia,-
+LATAM,Bouvet Island,Bouvet Island,-
+LATAM,Brazil,Brazil,-
+North America,Canada,Canada,-
+LATAM,Cayman Islands,Cayman Islands,-
+LATAM,Chile,Chile,-
+LATAM,Colombia,Colombia,-
+LATAM,Costa Rica,Costa Rica,-
+LATAM,Cuba,Cuba,-
+LATAM,Dominica,Dominica,-
+LATAM,Dominican Republic,Dominican Republic,-
+LATAM,Ecuador,Ecuador,-
+LATAM,El Salvador,El Salvador,-
+LATAM,Falkland Islands (Malvinas),Falkland Islands (Malvinas),-
+LATAM,French Guiana,French Guiana,-
+LATAM,Grenada,Grenada,-
+LATAM,Guadeloupe,Guadeloupe,-
+LATAM,Guatemala,Guatemala,-
+LATAM,Guyana,Guyana,-
+LATAM,Haiti,Haiti,-
+LATAM,Honduras,Honduras,-
+LATAM,Jamaica,Jamaica,-
+LATAM,Martinique,Martinique,-
+North America,Mexico,Mexico,-
+LATAM,Montserrat,Montserrat,-
+LATAM,Netherlands Antilles,Netherlands Antilles,-
+LATAM,Nicaragua,Nicaragua,-
+LATAM,Panama,Panama,-
+LATAM,Paraguay,Paraguay,-
+LATAM,Peru,Peru,-
+LATAM,Puerto Rico,Puerto Rico,-
+LATAM,Saint Barthelemy,Saint Barthelemy,-
+LATAM,Saint Kitts and Nevis,Saint Kitts and Nevis,-
+LATAM,Saint Lucia,Saint Lucia,-
+LATAM,Saint Martin,Saint Martin,-
+North America,Saint Pierre and Miquelon,Saint Pierre and Miquelon,-
+LATAM,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,-
+LATAM,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,-
+LATAM,Suriname,Suriname,-
+LATAM,Trinidad and Tobago,Trinidad and Tobago,-
+LATAM,Turks and Caicos Islands,Turks and Caicos Islands,-
+LATAM,Uruguay,Uruguay,-
+LATAM,Venezuela,Venezuela,-
+LATAM,"Virgin Islands, British","Virgin Islands, British",-
+LATAM,"Virgin Islands, U.S.","Virgin Islands, U.S.",-
+North America,US-WEST,United States,AK
+North America,US-SOUTH,United States,AL
+North America,US-SOUTH,United States,AR
+North America,US-WEST,United States,AZ
+North America,US-WEST,United States,CA
+North America,US-WEST,United States,CO
+North America,US-NORTHEAST,United States,CT
+North America,US-SOUTH,United States,DC
+North America,US-SOUTH,United States,DE
+North America,US-SOUTH,United States,FL
+North America,US-SOUTH,United States,GA
+North America,US-WEST,United States,HI
+North America,US-MIDWEST,United States,IA
+North America,US-WEST,United States,ID
+North America,US-MIDWEST,United States,IL
+North America,US-MIDWEST,United States,IN
+North America,US-MIDWEST,United States,KS
+North America,US-SOUTH,United States,KY
+North America,US-SOUTH,United States,LA
+North America,US-NORTHEAST,United States,MA
+North America,US-SOUTH,United States,MD
+North America,US-NORTHEAST,United States,ME
+North America,US-MIDWEST,United States,MI
+North America,US-MIDWEST,United States,MN
+North America,US-MIDWEST,United States,MO
+North America,US-SOUTH,United States,MS
+North America,US-WEST,United States,MT
+North America,US-SOUTH,United States,NC
+North America,US-MIDWEST,United States,ND
+North America,US-MIDWEST,United States,NE
+North America,US-NORTHEAST,United States,NH
+North America,US-NORTHEAST,United States,NJ
+North America,US-WEST,United States,NM
+North America,US-WEST,United States,NV
+North America,US-NORTHEAST,United States,NY
+North America,US-MIDWEST,United States,OH
+North America,US-SOUTH,United States,OK
+North America,US-WEST,United States,OR
+North America,US-NORTHEAST,United States,PA
+North America,US-NORTHEAST,United States,RI
+North America,US-SOUTH,United States,SC
+North America,US-MIDWEST,United States,SD
+North America,US-SOUTH,United States,TN
+North America,US-SOUTH,United States,TX
+North America,US-WEST,United States,UT
+North America,US-SOUTH,United States,VA
+North America,US-NORTHEAST,United States,VT
+North America,US-WEST,United States,WA
+North America,US-MIDWEST,United States,WI
+North America,US-SOUTH,United States,WV
+North America,US-WEST,United States,WY

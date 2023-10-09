@@ -1,0 +1,11 @@
+Product category,Product,MinOppValue,MaxOppValue,ProductSeq
+Software,Mobile app,"$2,000.","$3,500.",1
+Software,Design app,"$2,500.","$4,000.",2
+Electronics,Laser Printers,"$1,000.","$1,500.",3
+Electronics,Webcams,$100.,"$1,000.",4
+Electronics,Scanners,$500.,"$3,000.",5
+Computers,Desktops,"$1,000.","$3,000.",6
+Computers,Tablets,"$1,000.","$5,000.",7
+Computers,All-in-One,"$2,500.","$4,000.",8
+Furniture,Ergonomic Seating,$500.,"$5,000.",9
+Furniture,Stand-up Desks,"$2,000.","$5,000.",10
